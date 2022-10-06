@@ -1,1 +1,1 @@
-This is based on git commands
+This is based on git commands from ALX SE course.
